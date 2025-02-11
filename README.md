@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ambitious IT specialist with a focus on<br>building a career in dynamic and<br>innovative environments. Strong<br>background in information<br>technology and technical education,<br>enabling an effective and results-<br>driven approach to problem-solving<br>, which allows me to apply an effective<br>and results-oriented approach to<br>solving problems.
+Ambitious IT specialist with a focus on building a career in dynamic and<br>innovative environments. Strong background in information<br>technology and technical education, enabling an effective and results-driven approach to problem-solving , which allows me to apply an effective<br>and results-oriented approach to<br>solving problems.
 
 
 ## 🌐 Socials:
