@@ -3,7 +3,7 @@ Ambitious IT specialist with a focus on building a career in dynamic and innovat
 
 
 ## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-buiko-22bb8b251/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-buiko-22bb8b251/)) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavel.buiko4@gmail.com) 
 
 # 💻 Tech Stack:
