@@ -9,7 +9,7 @@ Ambitious **Master’s student in Technical and Computer Science** and **Founder
 <p align="left">
 <a href="https://www.linkedin.com/in/pavel-buiko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavel-buiko" height="30" width="40" /></a>
 <a href="mailto:pavel.buiko4@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="pavel.buiko4" height="30" width="40" />
 </a>
 </p>
 
