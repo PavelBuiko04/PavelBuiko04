@@ -1,5 +1,5 @@
 # Hi there, I'm Pavel 👋
-Ambitious **Master’s student in Technical and Computer Science** and **Founder of LeafSplit**. I specialize in bridging the gap between complex backend engineering and scalable business solutions. With a focus on **AI training acceleration**, **data security**, and **modern UX**, I build products from PoC to MVP. 
+Ambitious **Master’s student in Technical and Computer Science** and **programmer of LeafSplit**. I specialize in bridging the gap between complex backend engineering and scalable business solutions. With a focus on **AI training acceleration**, **data security**, and **modern UX**, I build products from PoC to MVP. 
 
 - 🧠 Currently optimizing **AI algorithms** and exploring **Machine Learning** precision.
 - 🚀 Expert in **Python ecosystem** and **React-driven** frontend architectures.
