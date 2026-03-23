@@ -5,7 +5,7 @@ Ambitious **Master’s student in Technical and Computer Science** and **program
 - 🚀 Expert in **Python ecosystem** and **React-driven** frontend architectures.
 - 💼 Experienced in **Agile/Scrum** environments and international pitching (**Web Summit Lisbon**).
 
-## 📫 Connect with me:
+## 📫 Connect with me: 
 <p align="left">
 <a href="https://www.linkedin.com/in/pavel-buiko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavel-buiko" height="30" width="40" /></a>
 <a href="mailto:pavel.buiko4@gmail.com">
